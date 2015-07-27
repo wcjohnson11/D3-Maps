@@ -1,0 +1,22 @@
+{
+  "name": "d3-maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcjohnson11/D3-Maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcjohnson11/D3-Maps/issues"
+  },
+  "homepage": "https://github.com/wcjohnson11/D3-Maps#readme",
+  "dependencies": {
+    "topojson": "^1.6.19"
+  }
+}
