@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/wcjohnson11/D3-Maps#readme",
   "dependencies": {
+    "d3": "^3.5.6",
+    "d3-geo-projection": "^0.2.15",
     "topojson": "^1.6.19"
   }
 }
